@@ -1,6 +1,6 @@
 # Picta – Python Icon Library
 
-![Picta](https://img.shields.io/badge/Picta-v0.1.0-blue?style=for-the-badge)
+![Picta](https://img.shields.io/badge/Picta-v0.2.0-blue?style=for-the-badge)
 
 Picta is a **Python-first, dependency-free icon library** inspired by [Lucide Icons](https://lucide.dev/). It allows Python developers to **easily use SVG icons** in web apps, dashboards, or any Python project that can render HTML.
 
